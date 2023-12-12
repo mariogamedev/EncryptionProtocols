@@ -1,5 +1,5 @@
 # EncryptionProtocols
-.NET Console App encrypter. This program will encrypt / decrypt using different encryption protocols
+.NET Console App encrypter. This program will encrypt / decrypt using different encryption protocols (v1.0.0)
 
 ## Current Supported Protocols
 - CipherSaber (CipherSaber2 included)
